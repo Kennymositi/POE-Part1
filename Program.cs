@@ -25,6 +25,13 @@ namespace POE_Part1
 
             //calling the ask user method
             welcome_and_collect.ask_user();
+
+            //create an instance of CyberKoreBot
+            CyberKoreBot bot = new CyberKoreBot();
+
+            //call the method with a parameter
+            string collected_name = "Kenny";
+            bot.StartChat(collected_name);
         }//end of main method
     }//end of class
 }//end of namespace

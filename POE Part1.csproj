@@ -45,6 +45,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="ascii_logo.cs" />
+    <Compile Include="CyberKoreBot.cs" />
     <Compile Include="greeting_and_userinteraction.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />

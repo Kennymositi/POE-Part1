@@ -16,9 +16,9 @@ namespace POE_Part1
             Console.ForegroundColor = ConsoleColor.Cyan;
             Console.WriteLine("╔═════════════════════════════════════════════╗");
             Console.ForegroundColor = ConsoleColor.Yellow;
-            Console.WriteLine("║             WELCOME TO CYBERKORE            ║   ");
+            Console.WriteLine("║             WELCOME TO CYBERKORE            ║");
             Console.ForegroundColor = ConsoleColor.Green;
-            Console.WriteLine("║              Security At The Core           ║ "); 
+            Console.WriteLine("║              Security At The Core           ║"); 
             Console.ForegroundColor = ConsoleColor.Cyan;
             Console.WriteLine("╚═════════════════════════════════════════════╝");
             //reset color
