@@ -14,12 +14,13 @@ namespace POE_Part1
 
             //message to welcome with text color 
             Console.ForegroundColor = ConsoleColor.Cyan;
-            Console.WriteLine("--------------------------------");
+            Console.WriteLine("╔═════════════════════════════════════════════╗");
             Console.ForegroundColor = ConsoleColor.Yellow;
-            Console.WriteLine("  [ Welcome CyberKore ]   ");
-            Console.WriteLine("  Security  At  The  Core     "); 
+            Console.WriteLine("║             WELCOME TO CYBERKORE            ║   ");
+            Console.ForegroundColor = ConsoleColor.Green;
+            Console.WriteLine("║              Security At The Core           ║ "); 
             Console.ForegroundColor = ConsoleColor.Cyan;
-            Console.WriteLine("---------------------------------");
+            Console.WriteLine("╚═════════════════════════════════════════════╝");
             //reset color
             Console.ResetColor();
 
